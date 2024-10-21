@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DBbcuMJxz1nyJ/bCZmUpn8w3XLr5XyJ/qB7AafjjLio=",
+  "Source": "FindDevice",
+  "BasePath": "_content/FindDevice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

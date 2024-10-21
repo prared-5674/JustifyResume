@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "FindDevice.Controllers.DeviceController",
+    "Method": "GetTenantData",
+    "RelativePath": "api/device/data/{tenantId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tenantId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FindDevice.Controllers.DeviceController",
+    "Method": "RegisterDevice",
+    "RelativePath": "api/device/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "device",
+        "Type": "FindDevice.ViewModel.DeviceModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "tenantId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
