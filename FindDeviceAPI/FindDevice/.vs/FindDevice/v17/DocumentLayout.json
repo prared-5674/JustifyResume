@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\prathapa\\Downloads\\Prathap\\JustifyResume\\FindDeviceAPI\\FindDevice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{426DFD39-8054-4D9A-BDFF-5275B5A20470}|..\\..\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF.csproj|c:\\users\\prathapa\\downloads\\prathap\\justifyresume\\showdeviceinfowpf\\showdeviceinfowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426DFD39-8054-4D9A-BDFF-5275B5A20470}|..\\..\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF.csproj|c:\\users\\prathapa\\downloads\\prathap\\justifyresume\\showdeviceinfowpf\\showdeviceinfowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFF0BA81-EF1E-4497-AD18-A0FEDC823D3C}|FindDevice.csproj|c:\\users\\prathapa\\downloads\\prathap\\justifyresume\\finddeviceapi\\finddevice\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFF0BA81-EF1E-4497-AD18-A0FEDC823D3C}|FindDevice.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +92,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\prathapa\\Downloads\\Prathap\\JustifyResume\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\..\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\prathapa\\Downloads\\Prathap\\JustifyResume\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF\\MainWindow.xaml",
+              "RelativeToolTip": "..\\..\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T06:18:14.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\prathapa\\Downloads\\Prathap\\JustifyResume\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\prathapa\\Downloads\\Prathap\\JustifyResume\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\ShowDeviceInfoWPF\\ShowDeviceInfoWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:18:14.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DeviceModel.cs",
               "DocumentMoniker": "C:\\Users\\prathapa\\Downloads\\Prathap\\JustifyResume\\FindDeviceAPI\\FindDevice\\ViewModel\\DeviceModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\DeviceModel.cs",
@@ -94,18 +125,17 @@
               "RelativeToolTip": "ViewModel\\DeviceModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T06:01:35.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T06:01:35.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DeviceController.cs",
               "DocumentMoniker": "C:\\Users\\prathapa\\Downloads\\Prathap\\JustifyResume\\FindDeviceAPI\\FindDevice\\Controllers\\DeviceController.cs",
               "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
               "ToolTip": "C:\\Users\\prathapa\\Downloads\\Prathap\\JustifyResume\\FindDeviceAPI\\FindDevice\\Controllers\\DeviceController.cs",
               "RelativeToolTip": "Controllers\\DeviceController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T05:54:04.149Z",
               "EditorCaption": ""

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDevice", "FindDevice.csproj", "{BFF0BA81-EF1E-4497-AD18-A0FEDC823D3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindDevice", "FindDevice.csproj", "{BFF0BA81-EF1E-4497-AD18-A0FEDC823D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowDeviceInfoWPF", "..\..\ShowDeviceInfoWPF\ShowDeviceInfoWPF\ShowDeviceInfoWPF.csproj", "{426DFD39-8054-4D9A-BDFF-5275B5A20470}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BFF0BA81-EF1E-4497-AD18-A0FEDC823D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFF0BA81-EF1E-4497-AD18-A0FEDC823D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFF0BA81-EF1E-4497-AD18-A0FEDC823D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426DFD39-8054-4D9A-BDFF-5275B5A20470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426DFD39-8054-4D9A-BDFF-5275B5A20470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426DFD39-8054-4D9A-BDFF-5275B5A20470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426DFD39-8054-4D9A-BDFF-5275B5A20470}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
