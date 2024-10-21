@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindDevice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9de76e03caa138aa59907841e4a9ecc9242edea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+575a99664106bde4830a2c04e263b0b02c712976")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindDevice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindDevice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
